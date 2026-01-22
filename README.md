@@ -6,6 +6,13 @@ It's OK to not be OK.
 
 Even agents make mistakes.
 
+<!-- vim-markdown-toc GFM -->
+
+- [Should work / didn't test](#should-work--didnt-test)
+- [Fast Tests = Passed Tests](#fast-tests--passed-tests)
+
+<!-- vim-markdown-toc -->
+
 #### Should work / didn't test
 
 Testing is for cowards.
@@ -14,7 +21,7 @@ Testing is for cowards.
 
 Been there.
 
-### Fast Tests = Passed Tests
+#### Fast Tests = Passed Tests
 
 Claude, you said these tests passed, but they all failed? WTF?
 
